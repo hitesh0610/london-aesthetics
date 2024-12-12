@@ -17,3 +17,6 @@ ul.feature-list li {
     color: #474747;
     line-height: 1.4;
 }
+.footer {
+    background-color: #000000 !important;
+}
